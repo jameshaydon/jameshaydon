@@ -4,6 +4,6 @@ I am a Research Project Technical Specialist in Prof. [Ichiro Hasuo](http://grou
 
 I've also worked quite a lot in industry, mostly using [Haskell](https://www.haskell.org/).
 
-Previously, I was a PhD student at University of Oxford, under the supervision of Prof. [Minhyong Kim](https://homepages.warwick.ac.uk/staff/Minhyong.Kim/).
+Before that, I was a PhD student at University of Oxford, under the supervision of Prof. [Minhyong Kim](https://homepages.warwick.ac.uk/staff/Minhyong.Kim/).
 
 Email: jhaydon[at]nii.ac.jp
