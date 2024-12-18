@@ -9,5 +9,3 @@ I've also worked quite a lot in industry, mostly using [Haskell](https://www.has
 Before that, I was a PhD student at University of Oxford, under the supervision of Prof. [Minhyong Kim](https://homepages.warwick.ac.uk/staff/Minhyong.Kim/).
 
 I like to think about how to make programming more abstract, and created the [Lawvere](https://github.com/jameshaydon/lawvere) programming language.
-
-Email: jhaydon[at]nii.ac.jp
