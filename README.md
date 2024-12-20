@@ -6,6 +6,6 @@ Before that I was a researcher in Prof. [Ichiro Hasuo](http://group-mmm.org/~ich
 
 I've also worked quite a lot in industry, mostly using [Haskell](https://www.haskell.org/), most notably at [Artificial](https://artificial.io/) and [Tweag](https://www.tweag.io/).
 
-Before that, I was a PhD student at University of Oxford, under the supervision of Prof. [Minhyong Kim](https://homepages.warwick.ac.uk/staff/Minhyong.Kim/).
+Before that, I was a PhD student at University of Oxford, under the supervision of Prof. [Minhyong Kim](https://www.minhyongkim.net/).
 
 I like to think about how to make programming more abstract, and created the [Lawvere](https://github.com/jameshaydon/lawvere) programming language.
